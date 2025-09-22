@@ -1,0 +1,1 @@
+#This is a simple Ansible playbook to demonstrate an effecient way to configure your child EC2 Instances from your control node (host EC2 Instance with Ansible installed) without manually pasting the host SSH public key onto the authorized_keys files of the child nodes.
